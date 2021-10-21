@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
 }
+body {
+    backgorund-color: black;
+}
 .container{
     width: 100%;
     height: 100vh;
